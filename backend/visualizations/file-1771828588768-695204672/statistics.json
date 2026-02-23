@@ -1,0 +1,53 @@
+{
+  "shape": {
+    "rows": 1,
+    "columns": 9
+  },
+  "columns": [
+    "S.No.",
+    "First Name",
+    "Last Name",
+    "Username",
+    "Email",
+    "Business Name",
+    "Phone",
+    "Address Line 1",
+    "Address Line 2"
+  ],
+  "numeric_columns": [
+    "S.No.",
+    "Phone",
+    "Address Line 1",
+    "Address Line 2"
+  ],
+  "statistics": {
+    "S.No.": {
+      "mean": 1.0,
+      "median": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "std": NaN
+    },
+    "Phone": {
+      "mean": 0,
+      "median": 0,
+      "min": 0,
+      "max": 0,
+      "std": 0
+    },
+    "Address Line 1": {
+      "mean": 0,
+      "median": 0,
+      "min": 0,
+      "max": 0,
+      "std": 0
+    },
+    "Address Line 2": {
+      "mean": 0,
+      "median": 0,
+      "min": 0,
+      "max": 0,
+      "std": 0
+    }
+  }
+}

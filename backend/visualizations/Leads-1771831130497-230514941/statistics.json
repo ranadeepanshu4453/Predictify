@@ -1,0 +1,105 @@
+{
+  "shape": {
+    "rows": 9240,
+    "columns": 37
+  },
+  "columns": [
+    "Prospect ID",
+    "Lead Number",
+    "Lead Origin",
+    "Lead Source",
+    "Do Not Email",
+    "Do Not Call",
+    "Converted",
+    "TotalVisits",
+    "Total Time Spent on Website",
+    "Page Views Per Visit",
+    "Last Activity",
+    "Country",
+    "Specialization",
+    "How did you hear about X Education",
+    "What is your current occupation",
+    "What matters most to you in choosing a course",
+    "Search",
+    "Magazine",
+    "Newspaper Article",
+    "X Education Forums",
+    "Newspaper",
+    "Digital Advertisement",
+    "Through Recommendations",
+    "Receive More Updates About Our Courses",
+    "Tags",
+    "Lead Quality",
+    "Update me on Supply Chain Content",
+    "Get updates on DM Content",
+    "Lead Profile",
+    "City",
+    "Asymmetrique Activity Index",
+    "Asymmetrique Profile Index",
+    "Asymmetrique Activity Score",
+    "Asymmetrique Profile Score",
+    "I agree to pay the amount through cheque",
+    "A free copy of Mastering The Interview",
+    "Last Notable Activity"
+  ],
+  "numeric_columns": [
+    "Lead Number",
+    "Converted",
+    "TotalVisits",
+    "Total Time Spent on Website",
+    "Page Views Per Visit",
+    "Asymmetrique Activity Score",
+    "Asymmetrique Profile Score"
+  ],
+  "statistics": {
+    "Lead Number": {
+      "mean": 617188.4356060605,
+      "median": 615479.0,
+      "min": 579533.0,
+      "max": 660737.0,
+      "std": 23405.99569848
+    },
+    "Converted": {
+      "mean": 0.3853896103896104,
+      "median": 0.0,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.48671356674088834
+    },
+    "TotalVisits": {
+      "mean": 3.445237833681204,
+      "median": 3.0,
+      "min": 0.0,
+      "max": 251.0,
+      "std": 4.854852697153891
+    },
+    "Total Time Spent on Website": {
+      "mean": 487.6982683982684,
+      "median": 248.0,
+      "min": 0.0,
+      "max": 2272.0,
+      "std": 548.0214662963715
+    },
+    "Page Views Per Visit": {
+      "mean": 2.3628199494672084,
+      "median": 2.0,
+      "min": 0.0,
+      "max": 55.0,
+      "std": 2.16141775455899
+    },
+    "Asymmetrique Activity Score": {
+      "mean": 14.306252489048187,
+      "median": 14.0,
+      "min": 7.0,
+      "max": 18.0,
+      "std": 1.3866940788802307
+    },
+    "Asymmetrique Profile Score": {
+      "mean": 16.344882516925527,
+      "median": 16.0,
+      "min": 11.0,
+      "max": 20.0,
+      "std": 1.8113950033971062
+    }
+  }
+}
